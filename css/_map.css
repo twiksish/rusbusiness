@@ -1,0 +1,25 @@
+.map {
+    position: relative;
+}
+
+    .map__note {
+        background: #fff;
+        padding: 27px;
+        position: absolute;
+        top: 50px;
+        left: 192px;
+        z-index: 8000;
+    }
+
+        .map__note__top {
+
+        }
+
+        .map__note__bottom {
+            margin-top: 24px;
+        }
+
+    .map__item {
+        height: 600px;
+        z-index: 100;
+    }
