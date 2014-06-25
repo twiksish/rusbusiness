@@ -1,0 +1,45 @@
+.clients {
+
+}
+
+    .clients__title {
+        font-family: 'Fregat Bold', sans-serif;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 32px;
+        color: #000;
+        text-align: center;
+    }
+
+    .clients__list {
+        text-align: center;
+        margin-top: 41px;
+    }
+
+        .clients__list__item {
+            display: inline-block;
+            vertical-align: top;
+            margin-left: 14px;
+            width: 130px;
+        }
+
+        .clients__list__item:first-child {
+            margin-left: 0;
+        }
+
+            .clients__list__item__image {
+
+            }
+
+                .clients__list__item__image__file {
+
+                }
+
+            .clients__list__item__text {
+                font-size: 14px;
+                line-height: 17px;
+                color: #000;
+                text-align: center;
+                margin-top: 9px;
+            }
+
