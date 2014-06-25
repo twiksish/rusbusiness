@@ -1,5 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=PT+Sans&subset=latin,cyrillic-ext);
-@import url(http://fonts.googleapis.com/css?family=Roboto:100&subset=latin,cyrillic-ext);
+@import url(http://fonts.googleapis.com/css?family=Roboto:100&subset=cyrillic,latin);
 
 @font-face {
     font-family: 'Fregat';
@@ -12,18 +11,4 @@
     font-style: normal;
     font-weight: 700;
     src: local('Fregat Bold'), url(../fonts/fregat_bold.woff) format('woff');
-}
-
-@font-face {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 100;
-    src: local('Roboto Thin'), local('Roboto-Thin'), url(http://themes.googleusercontent.com/static/fonts/roboto/v11/YfDCPq_rN5hKGqG92Ha6JHYhjbSpvc47ee6xR_80Hnw.woff) format('woff');
-}
-
-@font-face {
-    font-family: 'PT Sans';
-    font-style: normal;
-    font-weight: 400;
-    src: local('PT Sans'), local('PTSans-Regular'), url(http://themes.googleusercontent.com/static/fonts/ptsans/v6/8GoKBfpgo7cWXM9vW3g9QALUuEpTyoUstqEm5AMlJo4.woff) format('woff');
 }
