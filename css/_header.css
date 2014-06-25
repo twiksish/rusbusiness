@@ -3,18 +3,18 @@
 }
     .header__left {
         position: absolute;
-        top: 15px;
-        left: -20px;
+        top: 35px;
+        left: -21px;
     }
 
     .header__center {
         position: absolute;
-        top: 52px;
+        top: 71px;
         left: 378px;
     }
 
     .header__right {
         position: absolute;
-        top: 58px;
-        right: -61px;
+        top: 78px;
+        right: -25px;
     }
