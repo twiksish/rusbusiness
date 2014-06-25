@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans&subset=latin,cyrillic-ext)
+@import url(http://fonts.googleapis.com/css?family=Roboto:100&subset=latin,cyrillic-ext)
+
+@font-face {
+    font-family: 'Fregat';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Fregat'), url(../fonts/fregat_regular.woff) format('woff');
+}
+@font-face {
+    font-family: 'Fregat Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Fregat Bold'), url(../fonts/fregat_bold.woff) format('woff');
+}
