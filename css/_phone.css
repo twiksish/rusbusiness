@@ -1,0 +1,16 @@
+.phone {
+    font-family: 'Roboto Thin', sans-serif;
+    font-weight: 100;
+    font-size: 40px;
+    line-height: 42px;
+}
+
+    .phone__code {
+        color: #a1a1a1;
+        display: inline;
+    }
+
+    .phone__number {
+        color: #353535;
+        display: inline;
+    }

@@ -1,9 +1,20 @@
 .header {
-    height: 200px;
     position: relative;
 }
-    .header__logo {
+    .header__left {
         position: absolute;
-        left: 10px;
-        top: 10px;
+        top: 15px;
+        left: -20px;
+    }
+
+    .header__center {
+        position: absolute;
+        top: 52px;
+        left: 378px;
+    }
+
+    .header__right {
+        position: absolute;
+        top: 58px;
+        right: -61px;
     }

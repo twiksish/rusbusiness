@@ -1,6 +1,6 @@
 html {
     min-width: 960px;
-    background: #fff;
+    background: #fff url(../images/header.jpg) center top no-repeat;
     font-family: 'Fregat', sans-serif;
 
     /*font-family: 'PT Sans', sans-serif;*/
