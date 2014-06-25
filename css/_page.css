@@ -2,15 +2,15 @@
 
 }
     .page__header {
-        height: 136px;
+
     }
 
     .page__nav {
         margin: 20px 0 0;
     }
 
-    .page__body {
-        margin: 20px 0 0;
+    .page__features {
+        margin: 83px 0 0;
     }
 
     .page__footer {

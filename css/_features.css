@@ -1,0 +1,36 @@
+.features {
+
+}
+
+    .features__item {
+        display: inline-block;
+        vertical-align: top;
+        margin-left: 35px;
+        max-width: 196px;
+    }
+
+    .features__item:first-child {
+        margin-left: 0;
+    }
+
+        .features__item__image {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+        }
+
+            .features__item__image__file {
+                width: 200px;
+                height: 200px;
+            }
+
+        .features__item__text {
+            margin-top: 10px;
+            background: #fff;
+            border-radius: 4px;
+            padding: 4px 0 5px;
+            text-align: center;
+            font-size: 16px;
+            line-height: 19px;
+            color: #000;
+        }
