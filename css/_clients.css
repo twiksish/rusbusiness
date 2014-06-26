@@ -1,5 +1,5 @@
 .clients {
-
+    white-space: nowrap;
 }
 
     .clients__title {
@@ -19,8 +19,9 @@
         .clients__list__item {
             display: inline-block;
             vertical-align: top;
-            margin-left: 14px;
+            margin-left: 15px;
             width: 130px;
+            white-space: normal;
         }
 
         .clients__list__item:first-child {

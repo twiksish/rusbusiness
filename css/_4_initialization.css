@@ -1,12 +1,7 @@
 html {
-    min-width: 1000px;
-    background: #f8f8f8 url(../images/header.jpg) center top no-repeat;
+    min-width: 1200px;
+    background: #f8f8f8 url(../images/background.jpg) center top no-repeat;
     font-family: 'Fregat', sans-serif;
-
-    /*font-family: 'PT Sans', sans-serif;*/
-    /*font-family: 'Roboto Thin', sans-serif;*/
-    /*font-family: 'Fregat Bold', sans-serif;*/
-
 }
 
 ::-moz-selection {

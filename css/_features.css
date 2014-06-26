@@ -1,11 +1,13 @@
 .features {
-
+    white-space: nowrap;
 }
 
     .features__item {
         display: inline-block;
         vertical-align: top;
-        margin-left: 35px;
+        margin-left: 40px;
+        width: 200px;
+        white-space: normal;
     }
 
     .features__item:first-child {
@@ -15,22 +17,27 @@
         .features__item__image {
             width: 200px;
             height: 200px;
-            border-radius: 50%;
         }
 
             .features__item__image__file {
-                width: 200px;
-                height: 200px;
+                width: 100%;
+                height: 100%;
+                border-radius: 50%;
             }
 
         .features__item__text {
-            margin-top: 10px;
-            background: #fff;
-            border-radius: 4px;
-            padding: 4px 5px 5px;
+            margin-top: 6px;
             text-align: center;
             font-size: 16px;
             line-height: 19px;
             color: #000;
-            max-width: 190px;
+            padding: 4px 5px 5px;
         }
+
+            .features__item__text__inner {
+                display: inline-block;
+                vertical-align: top;
+                background: #fff;
+                border-radius: 4px;
+                padding: 4px 15px 5px;
+            }
